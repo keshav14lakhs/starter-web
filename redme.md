@@ -7,3 +7,4 @@ text and submitted pattern
 
 all these things do not and alsll
 
+###comparison Git Directory and Working Area
